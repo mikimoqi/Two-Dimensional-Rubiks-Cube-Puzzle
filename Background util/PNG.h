@@ -1,9 +1,3 @@
-/**
- * @file PNG.h
- *
- * @author CS 225: Data Structures
- * @version 2018r1
- */
 
 #ifndef CS221_PNG_H_
 #define CS221_PNG_H_
